@@ -1,0 +1,33 @@
+
+  <?xml version="1.0" encoding="utf-8"?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Blog</title>
+    <link href="https://portfolio-starter.sb-ph.com/feed.xml" rel="self"/>
+    <link href="https://portfolio-starter.sb-ph.com"/>
+    <updated>2020-04-06T12:00:00-03:00</updated>
+    <id>https://portfolio-starter.sb-ph.com</id>
+    
+      <author>
+        <name>Portfolio Starter</name>
+        <email>mail@sb-ph.com</email>
+      </author>
+    
+    
+    <entry>
+      <title>It’s here</title>
+      <link href="https://portfolio-starter.sb-ph.com/posts/its-here/"/>
+      <updated>2020-04-10T12:00:00-03:00</updated>
+      <id>https://portfolio-starter.sb-ph.com/posts/its-here/</id>
+      <content type="html">&lt;p&gt;We just pushed the first version of Portfolio Starter. 🎉 &lt;a href=&quot;https://github.com/sb-ph/portfolio-starter&quot;&gt;Check it out on GitHub&lt;/a&gt;. If you give it a try, &lt;a href=&quot;mailto:mail@sb-ph.com&quot;&gt;let us know&lt;/a&gt;! We’d love to see how people use it.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Coming soon&amp;hellip;</title>
+      <link href="https://portfolio-starter.sb-ph.com/posts/coming-soon/"/>
+      <updated>2020-04-06T12:00:00-03:00</updated>
+      <id>https://portfolio-starter.sb-ph.com/posts/coming-soon/</id>
+      <content type="html">&lt;p&gt;A starter kit for static portfolio sites. Lightweight, customisable, open source. By &lt;a href=&quot;https://piperhaywood.com/&quot;&gt;Piper Haywood&lt;/a&gt; and &lt;a href=&quot;https://sambaldwin.info/&quot;&gt;Sam Baldwin&lt;/a&gt;. Coming Spring 2020. &lt;a href=&quot;mailto:mail@sb-ph.com&quot;&gt;Get in touch&lt;/a&gt; ✉️&lt;/p&gt;
+</content>
+    </entry>
+  </feed>
